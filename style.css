@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+}
+
+#app{
+    margin: 0 auto;
+}
+
+button{
+    margin-left: 9px;
+}
+
+li{
+    list-style: none;
+}
+
+span{
+    font-size: 18px;
+}
